@@ -1,4 +1,4 @@
-# Besturingssystemen 1 (MBI10a)
+# Besturingssystemen 1 (MBI10a) - Labo 2
 
 Dit kan worden gebruikt voor Labo 2 van besturingssystemen.
 > Belangrijk! Labo 1 moet volledig afgerond zijn om aan dit labo te kunnen beginnen.
@@ -194,3 +194,6 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 >NIET KLAAR VOOR PUBLICATIE
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTIzMTkzNjM1XX0=
+-->
