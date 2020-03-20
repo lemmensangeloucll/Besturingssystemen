@@ -96,8 +96,75 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 >NIET KLAAR VOOR PUBLICATIE
 ### Installaties
 >NIET KLAAR VOOR PUBLICATIE
-### Quo
+### Quota
+>NIET KLAAR VOOR PUBLICATIE
+
+# Referentie (lezen ter info)
+### NTFS-permissies voor folders
+
+Voor een folder op een NTFS-permissie kunnen groepen (of eventueel individuele accounts) volgende (standaard)-permissies krijgen:
+
+-   List folder contents. Wie op folder F deze permissie heeft, kan de inhoud van F (lijst van bestanden en subfolders) lezen.
+    
+-   Read. Wie op folder F deze permissie heeft, kan:
+    
+    -   de inhoud van F lezen, zoals bij de vorige permissie,
+        
+    -   de inhoud van bestanden en subfolders van F lezen,
+        
+    -   attributen, permissies en eigendomsrechten van F lezen.
+        
+    
+-   Read & execute. Wie op folder F deze permissie heeft, heeft de readpermissie maar bovendien ook de zgn. traverse-permissie. Dit is nuttig in volgende situatie: een folderstructuur: …​\dir1\F. Wie geen permissie heeft op dir1 en "read & execute"-permissie heeft op F kan niet bladeren via verkenner en zo naar F gaan maar het kan wel door de volledige padnaam op te geven.
+    
+-   Write. Wie op folder F deze permissie heeft, kan:
+    
+    -   in F bestanden en subfolders creëren,
+        
+    -   in F bestanden en subfolders verwijderen,
+        
+    -   de attributen van F wijzigen,
+        
+    -   de permissies en de eigendomsrechten van F lezen maar niet wijzigen.
+        
+    
+-   Modify. Wie op folder F deze permissie heeft, kan:
+    
+    -   alles wat iemand met de "read & execute"-permissie kan,
+        
+    -   alles wat iemand met de "write"-permissie kan,
+        
+    -   F ook verwijderen.
+        
+    
+-   Full control. Wie op folder F deze permissie heeft, kan:
+    
+    -   alles wat iemand met de "modify"-permissie kan,
+        
+    -   de permissies en de eigendomsrechten van F en zijn subfolders en bestanden wijzigen.
+        
+    
+
+### NTFS-permissies voor bestanden
+
+De zopas opgesomde permissies kunnen ook toegekend worden voor individuele bestanden. Sommige hebben uiteraard een enigszins andere betekenis. * Read. Wie op bestand B deze permissie heeft, kan:  **de inhoud van B,** attributen, permissies en eigendomsrechten van B lezen. * Read & execute. Wie op bestand B deze permissie heeft, kan:  **alles wat iemand met de "read"-permissie kan,** B ook laten uitvoeren (als B een uitvoerbaar bestand is). * Write. Wie op bestand B deze permissie heeft, kan:  **B wijzigen,** de attributen van B wijzigen,  **de permissies en de eigendomsrechten van B lezen maar niet wijzigen. * Modify. Wie op bestand B deze permissie heeft, kan:** alles wat iemand met de "read & execute"-permissie kan,  **alles wat iemand met de "write"-permissie kan,** B bovendien ook verwijderen. * Full control. Wie op bestand B deze permissie heeft, kan:  **alles wat iemand met de "modify"-permissie kan,** de permissies en de eigendomsrechten van B wijzigen.
+
+#### Toepassing van NTFS-permissies
+
+Voor elk van deze permissies kan de instelling toegekend (allow) of geweigerd (deny) zijn, of geen van beide. Een account kan in meerdere groepen zitten, waarbij de verschillende groepen andere rechten toekennen aan een bepaald object (map, file). Als men als lid van één groep permissie heeft, dan krijgt de gebruiker toegang, tenzij er ergens anders "geweigerd" staat. Als men behoort tot een groep waarvoor een permissie geweigerd is, heeft men die permissie niet, ongeacht welke de permissies zijn van andere groepen waarvan men ook deel uitmaakt. Een folder erft de permissies van de bovenliggende folder, d.w.z.: als iemand een permissie heeft op een folder dan heeft hij die in principe ook op een subfolder. Men kan dit overerven echter wel blokkeren.
+
+NTFS-permissie zijn van toepassing als een gebruiker lokaal (= aan de computer zelf) werkt, maar ook als hij over het netwerk (bijv. met een gedeelde map) werkt. Andere bestandssystemen, zoals FAT32 en exFAT ondersteunen het concept van permissies niet; daar hebben alle gebruikers toegang tot alle bestanden. Het toekennen van NTFS-permissies gaat via Windows Verkenner door te rechterklikken op de map of het bestand en te gaan naar Properties, Security.
+
+Onafhankelijk van de share-permissies zijn de NTFS-permissies altijd van toepassing (dus onafhankelijk of het object via het netwerk of lokaal gebruikt wordt). Voor netwerkobjecten gelden dus zowel de share- als NTFS-permissies. De meest restrictieve permissie is de eigenlijke permissie.
+
+### Gebruikers en gebruikersgroepen (AGDLP)
+
+Gebruikersbeheer is wellicht de meest complexe taak van een netwerkbeheerder. Zoals we hierboven gezien hebben, wordt toegang tot bestanden en andere bronnen geregeld via permissies.
+
+Het is onverstandig permissies te geven aan individuele gebruikers. In plaats daarvan worden  **globale groepen**  gecreëerd. Gebruikers worden dan ondergebracht in globale groepen (een gebruiker kan tot meerdere groepen behoren). De term  **globaal**  verwijst ernaar dat de groep op het ganse domein bestaat. Sinds Windows 2000 bestaan er ook universele groepen. Dit type groep is nuttig wanneer meerdere domeinen via een netwerk verbonden zijn en als gebruikers van het ene domein toegang moeten hebben tot hulpbronnen van het andere domein. lees volgende  [tekst](https://ss64.com/nt/syntax-groups.html).
+
+Permissies worden toegekend aan domein-gebonden groepen (E. domain local). De beheerder kan individuele gebruikers of globale groepen toekennen aan zo een domein-gebonden groep.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODE2MzE5MSwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbMTEzNjQyMTU5MiwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
