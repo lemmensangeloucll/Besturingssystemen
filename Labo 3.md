@@ -80,8 +80,12 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 - Klik op `Action` -> `new` -> `Shared folder`
 - Geef de naam op en het pad van SalesShare
 - Open `properties` en voeg het keyword `financial` toe 
-- Ga daarna naar je Windows client en zoek in Verkenner naar finf
+- Ga daarna naar je Windows client en zoek naar `financial` op onderstaande locatie
+> Screenshot toevoegen
+
+# Oefeningen
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0NTQwODUsMTQ1Mjk5ODQ4OCwtMj
-A5NzQ2NTQyLDk5NjE4NjQzNV19
+eyJoaXN0b3J5IjpbMTkyNjQ1Mzc3NSwxNDUyOTk4NDg4LC0yMD
+k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
