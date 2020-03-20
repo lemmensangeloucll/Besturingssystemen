@@ -51,9 +51,9 @@ Zelf raad ik aan [dit filmpje](https://www.youtube.com/watch?v=fJHFmt6F0Rc&list=
 ## In de praktijk
 Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op de omgekeerde manier als we het hebben ingeschakeld.
 
-- Ga je naar Server Manager en 
-- Ga naar File and Storage Server
-- Selecteer Shares
+- Ga je naar `Server Manager` en 
+- Ga naar `File and Storage Server`
+- Selecteer `Shares`
 - Je zou dan volgende scherm moeten zien
 > Screenshot toevoegen
 
@@ -62,13 +62,13 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
   - SalesShare
   - HRShare
   - EngeneeringShare
-- Ga terug naar Server Manager ( het scherm in de bovenstaande screenshot)
-- Onder Tasks kiezen we voor nieuwe Share
-- We maken een SMB Share - Quick aan.
+- Ga terug naar `Server Manager` ( het scherm in de bovenstaande screenshot)
+- Onder `Tasks` kiezen we voor `nieuwe Share`
+- We maken een `SMB Share - Quick aan`.
 - Geef het pad op van de SalesShare folder en geef de share een naam
-- Bij Permissions kies je voor Customize permissions
-- Disable Inheritance
-- Voeg de groep Sales toe en geef hen Full Control rechten
+- Bij `Permissions` kies je voor `Customize permissions`
+- `Disable Inheritance`
+- Voeg de groep Sales toe en geef hen `Full Control` rechten
 - Je ziet dan volgend eindresultaat
 > Screenshot toevoegen
 
@@ -79,8 +79,8 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 - Open Active Directory Users and Computers
 - Klik op Action -> new -> Shared folder
 - Geef de naam op en het pad van HRShare
-- Open properties en voeg het keyword 'financial toe 
+- Open properties en voeg het keyword `financial` toe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDYzNTg2NywxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbMTE4NjA0NzUwMiwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
