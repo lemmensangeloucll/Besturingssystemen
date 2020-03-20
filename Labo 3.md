@@ -58,8 +58,13 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 > Screenshot toevoegen
 
 - Verwijder het tekstbestand uit de share via verkenner
-- maak volgende makken aa
+- maak volgende makken aan
+  - SalesShare
+  - HRShare
+  - EngeneeringShare
+- Ga terug naar Server Manager ( het scherm in de bovenstaande screenshot)
+- Onder Tasks kiezen we voor nieuwe Share 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMTczNjI0LDE0NTI5OTg0ODgsLTIwOT
+eyJoaXN0b3J5IjpbODU2NzkxODI2LDE0NTI5OTg0ODgsLTIwOT
 c0NjU0Miw5OTYxODY0MzVdfQ==
 -->
