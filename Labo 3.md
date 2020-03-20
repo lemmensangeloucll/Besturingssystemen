@@ -47,7 +47,12 @@ Kan je het bestand bekijken, bewerken, verwijderen?
 
 De lector raad aan om volgende [filmpje](https://www.youtube.com/watch?v=GfmkD12ywfw) te bekijken en [deze blog post](https://blog.netwrix.com/2018/05/03/differences-between-share-and-ntfs-permissions/) te lezen en zelf ook dingen ervan uit te voeren.
 Zelf raad ik aan [dit filmpje](https://www.youtube.com/watch?v=fJHFmt6F0Rc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN&index=14&t=0s) te bekijken, hierin wordt alles heel duidelijk uitgelegd en met een exacte demo.
+
+## In de praktijk
+Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op de omgekeerde manier als we het hebben ingeschakeld.
+
+Hierna ga je naar Server Manager en ga ja naar File and Storage Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDg4Mjk2OSwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbMjE0MDE5Nzg5NCwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
