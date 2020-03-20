@@ -45,8 +45,9 @@ Ga naar je Windows client en zoek de share in verkenner en bekijk het bestand.
 Kan je het bestand bekijken, bewerken, verwijderen?
 > Dit kan je niet, de client heeft enkel lees rechten.
 
-De lector raad aan om volgende [filmpje]()
+De lector raad aan om volgende [filmpje](https://www.youtube.com/watch?v=GfmkD12ywfw) te bekijken en [deze blog post](https://blog.netwrix.com/2018/05/03/differences-between-share-and-ntfs-permissions/) te lezen en zelf ook dingen ervan uit te voeren.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUxNTE0NCwxNDUyOTk4NDg4LC0yMD
-k3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbOTIwMDkyNDQ5LDE0NTI5OTg0ODgsLTIwOT
+c0NjU0Miw5OTYxODY0MzVdfQ==
 -->
