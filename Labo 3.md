@@ -78,8 +78,9 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 ## Shared folders in Active Directory
 - Open Active Directory Users and Computers
 - Klik op Action -> new -> Shared folder
--  
+- Geef de naam op en het pad van HRShare
+- Open properties en voeg het keyword 'financial toe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDU5MjI2NCwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbLTY1NDYzNTg2NywxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
