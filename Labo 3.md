@@ -84,8 +84,20 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 > Screenshot toevoegen
 
 # Oefeningen
-
+### Netwerkshares voor iedereen
+>NIET KLAAR VOOR PUBLICATIE
+### Home folders
+>NIET KLAAR VOOR PUBLICATIE
+### Gedeelde map maken
+>NIET KLAAR VOOR PUBLICATIE
+### Folder redirection
+>NIET KLAAR VOOR PUBLICATIE
+### Roaming Profiles
+>NIET KLAAR VOOR PUBLICATIE
+### Installaties
+>NIET KLAAR VOOR PUBLICATIE
+### Quo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjQ1Mzc3NSwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbLTk2ODE2MzE5MSwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
