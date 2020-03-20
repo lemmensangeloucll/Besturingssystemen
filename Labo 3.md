@@ -10,7 +10,8 @@ Er kunnen geen rechten worden ontleend of aansprakelijkheid worden aanvaard.
 
 # Voorbereiding
 Voeg aan je Windows Server een extra schijf toe. Dit doe je via VMWare, onder instellingen van de VM.
-> Om de schijf te kunnen toevoegen moet je Windows
+> Om de schijf te kunnen toevoegen moet je VM wel uit staan!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI5MTA5MjddfQ==
+eyJoaXN0b3J5IjpbOTk2MTg2NDM1XX0=
 -->
