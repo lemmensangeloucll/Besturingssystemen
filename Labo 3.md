@@ -68,8 +68,13 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 - Geef het pad op van de SalesShare folder en geef de share een naam
 - Bij Permissions kies je voor Customize permissions
 - Disable Inheritance
-- Voeg de groep Sales toe en geef hen Full Control 
+- Voeg de groep Sales toe en geef hen Full Control rechten
+- Je ziet dan volgend eindresultaat
+> Screenshot toevoegen
+
+- Doorloop de wizard verder.
+- Log nu in op de Windows client met een Sales gebruiker om te kijken als je aan de share kan en alle rechten hebt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA5NTQwMTUsMTQ1Mjk5ODQ4OCwtMj
-A5NzQ2NTQyLDk5NjE4NjQzNV19
+eyJoaXN0b3J5IjpbMTg3MzUyOTI3MCwxNDUyOTk4NDg4LC0yMD
+k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
