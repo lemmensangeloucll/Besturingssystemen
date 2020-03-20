@@ -51,8 +51,15 @@ Zelf raad ik aan [dit filmpje](https://www.youtube.com/watch?v=fJHFmt6F0Rc&list=
 ## In de praktijk
 Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op de omgekeerde manier als we het hebben ingeschakeld.
 
-Hierna ga je naar Server Manager en ga ja naar File and Storage Server
+- Ga je naar Server Manager en 
+- Ga naar File and Storage Server
+- Selecteer Shares
+- Je zou dan volgende scherm moeten zien
+> Screenshot toevoegen
+
+- Verwijder het tekstbestand uit de share via verkenner
+- maak volgende makken aa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDE5Nzg5NCwxNDUyOTk4NDg4LC0yMD
-k3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbNTkwMTczNjI0LDE0NTI5OTg0ODgsLTIwOT
+c0NjU0Miw5OTYxODY0MzVdfQ==
 -->
