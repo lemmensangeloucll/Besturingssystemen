@@ -41,7 +41,12 @@ Daarna moeten we nog een volume toevoegen aan de schijf zodat deze bruikbaar is.
  - Sluit het venster
  - Maak nu een txt bestandje in de schijf om te testen.
 
+Ga naar je Windows client en zoek de share in verkenner en bekijk het bestand.
+Kan je het bestand bekijken, bewerken, verwijderen?
+> Dit kan je niet, de client heeft enkel lees rechten.
+
+De lector raad aan om volgende [filmpje]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODk2NDQ3LDE0NTI5OTg0ODgsLTIwOT
-c0NjU0Miw5OTYxODY0MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMTUxNTE0NCwxNDUyOTk4NDg4LC0yMD
+k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
