@@ -13,8 +13,11 @@ Voeg aan je Windows Server een extra schijf toe. Dit doe je via VMWare, onder in
 > Om de schijf te kunnen toevoegen moet je VM wel uit staan!
 
 Als je de schijf hebt toegevoegd, start je de Windows Server weer op.
-Je gaat naar Computer Management -> Disk Management
+Je gaat naar Computer Management -> Disk Management.
+Je zou dan onderstaan beeld moeten zien.
+> Foto van de Disk Management met 2de schijf toevoegen.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM1ODUwMDcsLTIwOTc0NjU0Miw5OT
-YxODY0MzVdfQ==
+eyJoaXN0b3J5IjpbMTQ1Mjk5ODQ4OCwtMjA5NzQ2NTQyLDk5Nj
+E4NjQzNV19
 -->
