@@ -33,8 +33,15 @@ Daarna moeten we nog een volume toevoegen aan de schijf zodat deze bruikbaar is.
 # Sharing
  Nu moet de disk gedeeld worden met andere gebruikers op de computer.
  - Open Verkenner
- - Rechter muisknop op de 
+ - Rechter muisknop op de ShareDisk
+ - Open het tab Sharing
+ - Ga naar Advanced Sharing
+ - Vink Share This Folder aan
+ - Geef het de naam NetShare
+ - Sluit het venster
+ - Maak nu een txt bestandje in de schijf om te testen.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTAzNjY2NywxNDUyOTk4NDg4LC0yMD
-k3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbLTMwODk2NDQ3LDE0NTI5OTg0ODgsLTIwOT
+c0NjU0Miw5OTYxODY0MzVdfQ==
 -->
