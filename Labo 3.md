@@ -63,8 +63,13 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
   - HRShare
   - EngeneeringShare
 - Ga terug naar Server Manager ( het scherm in de bovenstaande screenshot)
-- Onder Tasks kiezen we voor nieuwe Share 
+- Onder Tasks kiezen we voor nieuwe Share
+- We maken een SMB Share - Quick aan.
+- Geef het pad op van de SalesShare folder en geef de share een naam
+- Bij Permissions kies je voor Customize permissions
+- Disable Inheritance
+- Voeg de groep Sales toe en geef hen Full Control 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NzkxODI2LDE0NTI5OTg0ODgsLTIwOT
-c0NjU0Miw5OTYxODY0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA5NTQwMTUsMTQ1Mjk5ODQ4OCwtMj
+A5NzQ2NTQyLDk5NjE4NjQzNV19
 -->
