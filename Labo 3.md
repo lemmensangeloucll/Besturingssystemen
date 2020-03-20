@@ -76,11 +76,12 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 - Log nu in op de Windows client met een Sales gebruiker om te kijken als je aan de share kan en alle rechten hebt
 
 ## Shared folders in Active Directory
-- Open Active Directory Users and Computers
-- Klik op Action -> new -> Shared folder
-- Geef de naam op en het pad van HRShare
-- Open properties en voeg het keyword `financial` toe 
+- Open `Active Directory Users and Computers`
+- Klik op `Action` -> `new` -> `Shared folder`
+- Geef de naam op en het pad van SalesShare
+- Open `properties` en voeg het keyword `financial` toe 
+- Ga daarna naar je Windows client en zoek in Verkenner naar finf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjA0NzUwMiwxNDUyOTk4NDg4LC0yMD
-k3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbLTEzNzg0NTQwODUsMTQ1Mjk5ODQ4OCwtMj
+A5NzQ2NTQyLDk5NjE4NjQzNV19
 -->
