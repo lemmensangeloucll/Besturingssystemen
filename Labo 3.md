@@ -15,7 +15,7 @@ Voeg aan je Windows Server een extra schijf toe. Dit doe je via VMWare, onder in
 Als je de schijf hebt toegevoegd, start je de Windows Server weer op.
 Je gaat naar Computer Management -> Disk Management.
 Je zou dan onderstaan beeld moeten zien.
-> Foto van de Disk Management met 2de schijf toevoegen.
+> Screenshot toevoegen
 
 Er staat nu dat disk 1 offline is, maar we willen hem natuurlijk activeren en kunnen gebruiken.
 - Je klikt met je **rechter** muisknop op de disk en klikt op **Online**, zodat deze geactiveerd wordt.
@@ -24,14 +24,17 @@ Er staat nu dat disk 1 offline is, maar we willen hem natuurlijk activeren en ku
 
 Daarna moeten we nog een volume toevoegen aan de schijf zodat deze bruikbaar is.
 - Klik in de **Unallocated** space met je **rechter** muisknop en klik op **New Simple Volume...**.
+> Screenshot toevoegen
 - Je laat alle standaard waarden staan maar past wel het volgende toe:
    - Drive-letter: M
    - Filesystem: NTFS
    - Label: ShareDisk
 
 # Sharing
- 
+ Nu moet de disk gedeeld worden met andere gebruikers op de computer.
+ - Open Verkenner
+ - Rechter muisknop op de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc2NDc5ODAsMTQ1Mjk5ODQ4OCwtMj
-A5NzQ2NTQyLDk5NjE4NjQzNV19
+eyJoaXN0b3J5IjpbLTgwNTAzNjY2NywxNDUyOTk4NDg4LC0yMD
+k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
