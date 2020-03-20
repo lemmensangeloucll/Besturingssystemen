@@ -22,8 +22,9 @@ Er staat nu dat disk 1 offline is, maar we willen hem natuurlijk activeren en ku
 
 > Screenshot toevoegen
 
-
+Daarna moeten we nog een volume toevoegen aan de schijf zodat deze bruikbaar is.
+- Klik in de **Unallocated** space met je **rechter** muisknop en klik op **New Simple V**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTQ1MzczMCwxNDUyOTk4NDg4LC0yMD
-k3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbNjQ3ODQyNDExLDE0NTI5OTg0ODgsLTIwOT
+c0NjU0Miw5OTYxODY0MzVdfQ==
 -->
