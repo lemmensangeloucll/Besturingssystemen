@@ -18,8 +18,12 @@ Je zou dan onderstaan beeld moeten zien.
 > Foto van de Disk Management met 2de schijf toevoegen.
 
 Er staat nu dat disk 1 offline is, maar we willen hem natuurlijk activeren en kunnen gebruiken.
-- Je klikt met je **rechter** m
+- Je klikt met je **rechter** muisknop op de disk en klikt op **Online**, zodat deze geactiveerd wordt.
+
+> Screenshot toevoegen
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTM2NTE1NSwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbLTY5NTQ1MzczMCwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
