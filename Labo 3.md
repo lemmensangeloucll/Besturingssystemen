@@ -73,8 +73,13 @@ Om verder te kunnen gaan met het labo moeten we sharing opnieuw uitschakelen op 
 > Screenshot toevoegen
 
 - Doorloop de wizard verder.
-- Log nu in op de Windows client met een Sales gebruiker om te kijken als je aan de share kan en alle rechten hebt 
+- Log nu in op de Windows client met een Sales gebruiker om te kijken als je aan de share kan en alle rechten hebt
+
+## Shared folders in Active Directory
+- Open Active Directory Users and Computers
+- Klik op Action -> new -> Shared folder
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzUyOTI3MCwxNDUyOTk4NDg4LC0yMD
+eyJoaXN0b3J5IjpbMTM3MDU5MjI2NCwxNDUyOTk4NDg4LC0yMD
 k3NDY1NDIsOTk2MTg2NDM1XX0=
 -->
