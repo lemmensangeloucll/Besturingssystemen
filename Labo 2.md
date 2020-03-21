@@ -188,7 +188,8 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Klik op OK
 - Sluit het venster
 
-Nu moeten we ervoor zorgen dat de group `IT` wel aan `Contro`
+Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
+- Ga nu naar 
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -206,6 +207,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Contro`
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzAxNzk5OSwxNjg2OTAwNjUwLC0xOT
-c2NjEyMjQ2LDkyMzE5MzYzNV19
+eyJoaXN0b3J5IjpbOTMxNjQwMTI5LDE2ODY5MDA2NTAsLTE5Nz
+Y2MTIyNDYsOTIzMTkzNjM1XX0=
 -->
