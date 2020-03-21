@@ -254,9 +254,11 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Maak hier ene nieuwe GPO aan, geef deze de naam `No driver updates`
 - Rechterklik op de nieuwe GPO en edit
 -  Volg volgende structuur in de linker kolom.
-- `Computer Configuration`-> `Preferences`-> `Windows settings`-> `Windows Components` -> `Windows Updates` 
-- Dubbel klik nu rechts op `Do not include drivers with Windows Updates`
-- Vink `Enabled` aan
+- `Computer Configuration`-> `Preferences`-> `Windows settings`-> `Shortcuts` 
+- Klik rechts op Shorcuts en kies voor new shortcut
+- Name: Cosci.be
+- Target Type: URL
+- Target URL: cosci.be
 - Klik op Apply
 - Klik op OK
 - Sluit het venster
@@ -269,7 +271,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTE1NTUxLC0xMjY1MDQ4MDU0LDE1ND
+eyJoaXN0b3J5IjpbLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1ND
 IyNjgwMTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4Njkw
 MDY1MCwtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
