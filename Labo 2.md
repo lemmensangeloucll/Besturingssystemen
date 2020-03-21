@@ -189,7 +189,9 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Sluit het venster
 
 Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
-- Ga nu naar 
+- Ga nu naar de OU `IT` in de rechter kolom
+- Rechter klik op de OU `IT` en klik op `Create a GPO in this domain, and Link it here...`
+- 
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -207,6 +209,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNjQwMTI5LDE2ODY5MDA2NTAsLTE5Nz
-Y2MTIyNDYsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbLTEzNzQ4NDUzMDgsMTY4NjkwMDY1MCwtMT
+k3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
