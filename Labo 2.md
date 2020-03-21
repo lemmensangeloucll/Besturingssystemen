@@ -180,6 +180,8 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Open `Group Policy Management`
 - Maak een nieuwe GPO aan in `Employees`
 - Geef deze een naam bv. `Disable C&C`
+- Volg volgende structuur in de linker kolom.
+- `User Configuration`-> 
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -197,5 +199,6 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY2MTIyNDYsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbLTEwMzc1OTM3MzAsLTE5NzY2MTIyNDYsOT
+IzMTkzNjM1XX0=
 -->
