@@ -186,6 +186,12 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Vink Enabled aan
 - Klik op Apply
 - Klik op OK
+-  Volg volgende structuur in de linker kolom.
+- `User Configuration`-> `Policies`-> `Administrative Templates`-> `System`
+- Dubbel klik nu rechts op `Prevent access to the command prompt`
+- Vink Enabled aan
+- Klik op Apply
+- Klik op OK
 - Sluit het venster
 
 Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
@@ -222,6 +228,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NzIyNTAwLDE2ODY5MDA2NTAsLTE5Nz
-Y2MTIyNDYsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbLTE0NzkwODg3ODgsMTY4NjkwMDY1MCwtMT
+k3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
