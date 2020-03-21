@@ -223,6 +223,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Vink Disabled aan
 - Klik op Apply
 - Klik op OK
+- Sluit het venster
 ### Sluit het gastaccount af
 >NIET KLAAR VOOR PUBLICATIE
 ### Verhinder automatische driver-updates.
@@ -238,7 +239,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjU5OTIzNywtMTEwMjAxNDM4OSwtMT
+eyJoaXN0b3J5IjpbMTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMT
 cyMjkzNzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5
 MzYzNV19
 -->
