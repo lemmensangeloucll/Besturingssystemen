@@ -211,8 +211,9 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Vink Disabled aan
 - Klik op Apply
 - Klik op OK
+- sluit het venster
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
->NIET KLAAR VOOR PUBLICATIE
+- 
 ### Sluit het gastaccount af
 >NIET KLAAR VOOR PUBLICATIE
 ### Verhinder automatische driver-updates.
@@ -228,6 +229,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkwODg3ODgsMTY4NjkwMDY1MCwtMT
+eyJoaXN0b3J5IjpbLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MCwtMT
 k3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
