@@ -183,7 +183,12 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Volg volgende structuur in de linker kolom.
 - `User Configuration`-> `Policies`-> `Administrative Templates`-> `Control Panel`
 - Dubbel klik nu rechts op `Prohibit access to Control Panel and PC settings`
-- 
+- Vink Enabled aan
+- Klik op Apply
+- Klik op OK
+- Sluit het venster
+
+Nu moeten we ervoor zorgen dat de group `IT` wel aan `Contro`
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -201,6 +206,6 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjkwMDY1MCwtMTk3NjYxMjI0Niw5Mj
-MxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbMTI5NzAxNzk5OSwxNjg2OTAwNjUwLC0xOT
+c2NjEyMjQ2LDkyMzE5MzYzNV19
 -->
