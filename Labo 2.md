@@ -193,6 +193,12 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Rechter klik op de OU `IT` en klik op `Create a GPO in this domain, and Link it here...`
 - Geef deze de naam `Allow C&C`
 - Rechter klik op de zonet aangemaakte GPO
+-  Volg volgende structuur in de linker kolom.
+- `User Configuration`-> `Policies`-> `Administrative Templates`-> `Control Panel`
+- Dubbel klik nu rechts op `Prohibit access to Control Panel and PC settings`
+- Vink Enabled aan
+- Klik op Apply
+- Klik op OK
 - 
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
@@ -211,6 +217,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUwNDQxOTcsMTY4NjkwMDY1MCwtMT
+eyJoaXN0b3J5IjpbLTE0NzgxNTIxODYsMTY4NjkwMDY1MCwtMT
 k3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
