@@ -199,7 +199,12 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Vink Enabled aan
 - Klik op Apply
 - Klik op OK
-- 
+-  Volg volgende structuur in de linker kolom.
+- `User Configuration`-> `Policies`-> `Administrative Templates`-> `System`
+- Dubbel klik nu rechts op `Prevent access to the command prompt`
+- Vink Disabled aan
+- Klik op Apply
+- Klik op OK
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -217,6 +222,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgxNTIxODYsMTY4NjkwMDY1MCwtMT
-k3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbMzg2NzIyNTAwLDE2ODY5MDA2NTAsLTE5Nz
+Y2MTIyNDYsOTIzMTkzNjM1XX0=
 -->
