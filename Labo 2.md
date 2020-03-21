@@ -182,7 +182,8 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 - Geef deze een naam bv. `Disable C&C`
 - Volg volgende structuur in de linker kolom.
 - `User Configuration`-> `Policies`-> `Administrative Templates`-> `Control Panel`
-- Klik nu rechts op `Prohibit access to Control Panel and PC settings`
+- Dubbel klik nu rechts op `Prohibit access to Control Panel and PC settings`
+- 
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
 >NIET KLAAR VOOR PUBLICATIE
 ### Sluit het gastaccount af
@@ -200,6 +201,6 @@ Als er dus lager een Policy is die dezelfde property aanspreekt zal deze dus nie
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTc5MzE5OSwtMTk3NjYxMjI0Niw5Mj
+eyJoaXN0b3J5IjpbMTY4NjkwMDY1MCwtMTk3NjYxMjI0Niw5Mj
 MxOTM2MzVdfQ==
 -->
