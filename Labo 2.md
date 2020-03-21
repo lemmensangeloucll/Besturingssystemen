@@ -217,7 +217,12 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Ga naar de OU `Employees`
 - Maak hier ene nieuwe GPO aan, geef deze de naam `No external drives`
 - Rechterklik op de nieuwe GPO en edit
-- 
+-  Volg volgende structuur in de linker kolom.
+- `User Configuration`-> `Policies`-> `Administrative Templates`-> `System` -> `Removable Storage Access`
+- Dubbel klik nu rechts op `All Removable Storage classes: Deny all access`
+- Vink Disabled aan
+- Klik op Apply
+- Klik op OK
 ### Sluit het gastaccount af
 >NIET KLAAR VOOR PUBLICATIE
 ### Verhinder automatische driver-updates.
@@ -233,6 +238,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMT
-Y4NjkwMDY1MCwtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbMTAxNjU5OTIzNywtMTEwMjAxNDM4OSwtMT
+cyMjkzNzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5
+MzYzNV19
 -->
