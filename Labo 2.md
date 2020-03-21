@@ -213,7 +213,11 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Klik op OK
 - sluit het venster
 ### Verbied het gebruik van USB-sticks, CDs, DVDs en andere verwijderbare media
-- Open 
+- Open `Group Policy Management`
+- Ga naar de OU `Employees`
+- Maak hier ene nieuwe GPO aan, geef deze de naam `No external drives`
+- Rechterklik op de nieuwe GPO en edit
+- 
 ### Sluit het gastaccount af
 >NIET KLAAR VOOR PUBLICATIE
 ### Verhinder automatische driver-updates.
@@ -229,6 +233,6 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjQ5Nzc0MiwtMTcyMjkzNzc3MiwxNj
-g2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
+eyJoaXN0b3J5IjpbLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMT
+Y4NjkwMDY1MCwtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
