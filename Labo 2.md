@@ -242,8 +242,8 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Maak hier ene nieuwe GPO aan, geef deze de naam `No driver updates`
 - Rechterklik op de nieuwe GPO en edit
 -  Volg volgende structuur in de linker kolom.
-- `Computer Configuration`-> `Policies`-> `Administrative Templates`-> `Windows Components` -> `Windows Updates` ->
-- Dubbel klik nu rechts op `Accounts: Guest account status`
+- `Computer Configuration`-> `Policies`-> `Administrative Templates`-> `Windows Components` -> `Windows Updates` 
+- Dubbel klik nu rechts op `Do not include drivers with Windows Updates`
 - Vink `Define this policy setting` aan
 - Klik op Apply
 - Klik op OK
@@ -259,7 +259,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzU4MzU0OSwtMTI2NTA0ODA1NCwxNT
-QyMjY4MDEzLC0xMTAyMDE0Mzg5LC0xNzIyOTM3NzcyLDE2ODY5
-MDA2NTAsLTE5NzY2MTIyNDYsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbLTExNjExNjc2NTUsLTEyNjUwNDgwNTQsMT
+U0MjI2ODAxMywtMTEwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2
+OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
 -->
