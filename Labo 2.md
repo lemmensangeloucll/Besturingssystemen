@@ -225,7 +225,17 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Klik op OK
 - Sluit het venster
 ### Sluit het gastaccount af
->NIET KLAAR VOOR PUBLICATIE
+- Open `Group Policy Management`
+- Ga naar de OU `Employees`
+- Maak hier ene nieuwe GPO aan, geef deze de naam `No guests`
+- Rechterklik op de nieuwe GPO en edit
+-  Volg volgende structuur in de linker kolom.
+- `Computer Configuration`-> `Policies`-> `Windows Settings`-> `Security settings` -> `Local Policies` -> ``
+- Dubbel klik nu rechts op `All Removable Storage classes: Deny all access`
+- Vink Disabled aan
+- Klik op Apply
+- Klik op OK
+- Sluit het venster
 ### Verhinder automatische driver-updates.
 >NIET KLAAR VOOR PUBLICATIE
 ### Snelkoppeling cosci.be
@@ -239,7 +249,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMT
-cyMjkzNzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5
-MzYzNV19
+eyJoaXN0b3J5IjpbLTExMDA5ODE2NjYsMTU0MjI2ODAxMywtMT
+EwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2OTAwNjUwLC0xOTc2
+NjEyMjQ2LDkyMzE5MzYzNV19
 -->
