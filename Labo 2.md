@@ -230,9 +230,9 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Maak hier ene nieuwe GPO aan, geef deze de naam `No guests`
 - Rechterklik op de nieuwe GPO en edit
 -  Volg volgende structuur in de linker kolom.
-- `Computer Configuration`-> `Policies`-> `Windows Settings`-> `Security settings` -> `Local Policies` -> ``
-- Dubbel klik nu rechts op `All Removable Storage classes: Deny all access`
-- Vink Disabled aan
+- `Computer Configuration`-> `Policies`-> `Windows Settings`-> `Security settings` -> `Local Policies` -> `Security Options`
+- Dubbel klik nu rechts op `Accounts: Guest account status`
+- Vink `Define this policy setting` aan
 - Klik op Apply
 - Klik op OK
 - Sluit het venster
@@ -249,7 +249,7 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA5ODE2NjYsMTU0MjI2ODAxMywtMT
+eyJoaXN0b3J5IjpbLTEyNjUwNDgwNTQsMTU0MjI2ODAxMywtMT
 EwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2OTAwNjUwLC0xOTc2
 NjEyMjQ2LDkyMzE5MzYzNV19
 -->
