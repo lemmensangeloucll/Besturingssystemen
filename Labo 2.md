@@ -276,10 +276,8 @@ get-date >> C:\Users\$gebruiker\log.log
 - Rechterklik op de nieuwe GPO en edit
 -  Volg volgende structuur in de linker kolom.
 - `User Configuration`-> `Windows settings`-> `Scripts`
-- Klik rechts op Shorcuts en kies voor new shortcut
-- Name: Cosci.be
-- Target Type: URL
-- Target URL: cosci.be
+- Klik rechts op Logon in de rechterkolom en klik op Properties
+- 
 - Klik op Apply
 - Klik op OK
 - Sluit het venster
@@ -290,7 +288,7 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzQ5MTgxLC0zNjU2MTI0MTgsLTQxNz
+eyJoaXN0b3J5IjpbLTQyMTI3MTkyLC0zNjU2MTI0MTgsLTQxNz
 IxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgwMTMsLTExMDIwMTQz
 ODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MCwtMTk3NjYxMjI0Ni
 w5MjMxOTM2MzVdfQ==
