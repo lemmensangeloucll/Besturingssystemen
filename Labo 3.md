@@ -21,8 +21,7 @@ Er staat nu dat disk 1 offline is, maar we willen hem natuurlijk activeren en ku
 - Je klikt met je **rechter** muisknop op de disk en klikt op **Online**, zodat deze geactiveerd wordt.
 
 Er staat nu Not Initialized
-- Je klikt met je **rechter** muisknop op de d
-Initialiseer de disk daarna door opnieuw rechts te klikken op de diks. Met rechtermuisknop kiezen we voor 'Initialize Disk' en gebruik GPT.
+- Je klikt met je **rechter** muisknop op de disk en klik nu op Initialize Disk, kies verder voor GPT.
 
 > Screenshot toevoegen
 
@@ -169,6 +168,6 @@ Het is onverstandig permissies te geven aan individuele gebruikers. In plaats da
 
 Permissies worden toegekend aan domein-gebonden groepen (E. domain local). De beheerder kan individuele gebruikers of globale groepen toekennen aan zo een domein-gebonden groep.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgyNjUzNTAsMTEzNjQyMTU5MiwxND
-UyOTk4NDg4LC0yMDk3NDY1NDIsOTk2MTg2NDM1XX0=
+eyJoaXN0b3J5IjpbOTE3MDAwMjU2LDExMzY0MjE1OTIsMTQ1Mj
+k5ODQ4OCwtMjA5NzQ2NTQyLDk5NjE4NjQzNV19
 -->
