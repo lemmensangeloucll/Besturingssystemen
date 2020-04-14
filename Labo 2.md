@@ -270,7 +270,19 @@ $gebruiker=$env:USERNAME
 whoami >> C:\Users\$gebruiker\log.log
 get-date >> C:\Users\$gebruiker\log.log
 ```
-
+- Open `Group Policy Management`
+- Ga naar de OU `Employees`
+- Maak hier ene nieuwe GPO aan, geef deze de naam `Logon script`
+- Rechterklik op de nieuwe GPO en edit
+-  Volg volgende structuur in de linker kolom.
+- `User Configuration`-> `Windows settings`-> `Scripts`
+- Klik rechts op Shorcuts en kies voor new shortcut
+- Name: Cosci.be
+- Target Type: URL
+- Target URL: cosci.be
+- Klik op Apply
+- Klik op OK
+- Sluit het venster
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -278,8 +290,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTYxMjQxOCwtNDE3MjExMjQsLTEyNj
-UwNDgwNTQsMTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMTcyMjkz
-Nzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV
-19
+eyJoaXN0b3J5IjpbMjA2NzQ5MTgxLC0zNjU2MTI0MTgsLTQxNz
+IxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgwMTMsLTExMDIwMTQz
+ODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MCwtMTk3NjYxMjI0Ni
+w5MjMxOTM2MzVdfQ==
 -->
