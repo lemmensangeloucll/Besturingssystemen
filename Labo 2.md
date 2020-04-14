@@ -289,10 +289,8 @@ get-date >> C:\Users\$gebruiker\log.log
 - Hierin moet het script komen dat we daarstraks gemaakt hebben
 - Kopieer het script en plak het hier
 - Sluit dan File Explorer af
+- Klik nu op Add... (in het venster Logon Properties op het tablad Scripts)
 - 
-- Klik op Apply
-- Klik op OK
-- Sluit het venster
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -300,8 +298,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzczNjg1MDcsNzI3MTE1NDc3LC0zNj
-U2MTI0MTgsLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgw
-MTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MC
-wtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbLTYwMDE5NjY2MCw3MjcxMTU0NzcsLTM2NT
+YxMjQxOCwtNDE3MjExMjQsLTEyNjUwNDgwNTQsMTU0MjI2ODAx
+MywtMTEwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2OTAwNjUwLC
+0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
 -->
