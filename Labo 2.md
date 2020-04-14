@@ -270,6 +270,8 @@ $gebruiker=$env:USERNAME
 whoami >> C:\Users\$gebruiker\log.log
 get-date >> C:\Users\$gebruiker\log.log
 ```
+- Sla het bestand op als script.ps1
+	- Indien het opslaan met andere exste
 - Open `Group Policy Management`
 - Ga naar de OU `Employees`
 - Maak hier ene nieuwe GPO aan, geef deze de naam `Logon script`
@@ -293,8 +295,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTE1NDc3LC0zNjU2MTI0MTgsLTQxNz
-IxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgwMTMsLTExMDIwMTQz
-ODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MCwtMTk3NjYxMjI0Ni
-w5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbMTM5MTQxMzAzMyw3MjcxMTU0NzcsLTM2NT
+YxMjQxOCwtNDE3MjExMjQsLTEyNjUwNDgwNTQsMTU0MjI2ODAx
+MywtMTEwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2OTAwNjUwLC
+0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
 -->
