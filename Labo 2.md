@@ -268,8 +268,9 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ```
 $gebruiker=$env:USERNAME
 whoami >> C:\Users\$gebruiker\log.log
-get-date >> C
+get-date >> C:\Users\$gebruiker\log.log
 ```
+
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -277,7 +278,7 @@ get-date >> C
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDg4ODU2NiwtNDE3MjExMjQsLTEyNj
+eyJoaXN0b3J5IjpbLTM2NTYxMjQxOCwtNDE3MjExMjQsLTEyNj
 UwNDgwNTQsMTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMTcyMjkz
 Nzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV
 19
