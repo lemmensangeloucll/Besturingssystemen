@@ -271,11 +271,12 @@ whoami >> C:\Users\$gebruiker\log.log
 get-date >> C:\Users\$gebruiker\log.log
 ```
 - Sla het bestand op als script.ps1
-	- Indien het opslaan met andere exstensie niet lukt volg volgende stappen.
+	- > Indien het opslaan met andere exstensie niet lukt volg volgende stappen.
 	 1. Sla het bestand op als een gewoon txt bestand in Documents
 	 2. Ga naar File Explorer en klik op Documents
 	 3. Klik bovenaan op view
-	 4. Klik  
+	 4. Vink daar File name exstensions aan
+	 5. Nu rename je het bestand script.txt naar script.ps1 
 - Open `Group Policy Management`
 - Ga naar de OU `Employees`
 - Maak hier ene nieuwe GPO aan, geef deze de naam `Logon script`
@@ -299,8 +300,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjY1NzQ1LDcyNzExNTQ3NywtMzY1Nj
-EyNDE4LC00MTcyMTEyNCwtMTI2NTA0ODA1NCwxNTQyMjY4MDEz
-LC0xMTAyMDE0Mzg5LC0xNzIyOTM3NzcyLDE2ODY5MDA2NTAsLT
-E5NzY2MTIyNDYsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbLTE0NzczNjg1MDcsNzI3MTE1NDc3LC0zNj
+U2MTI0MTgsLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgw
+MTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MC
+wtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
