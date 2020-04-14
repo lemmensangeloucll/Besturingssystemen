@@ -300,7 +300,7 @@ get-date >> C:\Users\$gebruiker\log.log
 - Dubbelklik op het bestand Script.ps1
 - Klik op OK
 - Klik nu op Apply en daarna op OK
-> Wanneer je nu op je windows 10 client opnieuw inlogd zal er een bestand log.log 
+> Wanneer je nu op je windows 10 client opnieuw inlogd zal er een bestand log.log gemaakt worden in je gebruikers map
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -308,8 +308,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODc2MTMwLDUwNzkxMTk4OCw3MjcxMT
-U0NzcsLTM2NTYxMjQxOCwtNDE3MjExMjQsLTEyNjUwNDgwNTQs
-MTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNj
-g2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
+eyJoaXN0b3J5IjpbMTU3NzU2OTc5OCw1MDc5MTE5ODgsNzI3MT
+E1NDc3LC0zNjU2MTI0MTgsLTQxNzIxMTI0LC0xMjY1MDQ4MDU0
+LDE1NDIyNjgwMTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMT
+Y4NjkwMDY1MCwtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
