@@ -293,6 +293,11 @@ get-date >> C:\Users\$gebruiker\log.log
 - Klik nu op Add... (in het venster Logon Properties op het tablad Scripts)
 - Kies dan voor Browse...
 - Kies het bestand Script.ps1
+- Klik op OK
+- Klik nu op het tablad PowerShell Scripts
+- Kies voor Add..
+- Kies voor Browse...
+- 
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -300,8 +305,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzIxNDUwMSw3MjcxMTU0NzcsLTM2NT
-YxMjQxOCwtNDE3MjExMjQsLTEyNjUwNDgwNTQsMTU0MjI2ODAx
-MywtMTEwMjAxNDM4OSwtMTcyMjkzNzc3MiwxNjg2OTAwNjUwLC
-0xOTc2NjEyMjQ2LDkyMzE5MzYzNV19
+eyJoaXN0b3J5IjpbLTE4NzUxNDk5MTgsNzI3MTE1NDc3LC0zNj
+U2MTI0MTgsLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgw
+MTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MC
+wtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
 -->
