@@ -278,7 +278,11 @@ get-date >> C:\Users\$gebruiker\log.log
 - `User Configuration`-> `Windows settings`-> `Scripts`
 - Klik rechts op Logon in de rechterkolom en klik op Properties
 - Klik nu op Show Files...
-- Er opent nu een 
+- Er opent nu een File Explorer tablad
+- Hierin moet het script komen dat we daarstraks gemaakt hebben
+- Kopieer het script en plak het hier
+- Sluit dan File Explorer af
+- 
 - Klik op Apply
 - Klik op OK
 - Sluit het venster
@@ -289,8 +293,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjMzNzM3MCwtMzY1NjEyNDE4LC00MT
-cyMTEyNCwtMTI2NTA0ODA1NCwxNTQyMjY4MDEzLC0xMTAyMDE0
-Mzg5LC0xNzIyOTM3NzcyLDE2ODY5MDA2NTAsLTE5NzY2MTIyND
-YsOTIzMTkzNjM1XX0=
+eyJoaXN0b3J5IjpbNzI3MTE1NDc3LC0zNjU2MTI0MTgsLTQxNz
+IxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgwMTMsLTExMDIwMTQz
+ODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MCwtMTk3NjYxMjI0Ni
+w5MjMxOTM2MzVdfQ==
 -->
