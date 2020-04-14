@@ -292,12 +292,14 @@ get-date >> C:\Users\$gebruiker\log.log
 > Nu gaan we het bestand koppelen aan het inloggen 
 - Klik nu op Add... (in het venster Logon Properties op het tablad Scripts)
 - Kies dan voor Browse...
-- Kies het bestand Script.ps1
+- Dubbelklik het bestand Script.ps1
 - Klik op OK
 - Klik nu op het tablad PowerShell Scripts
 - Kies voor Add..
 - Kies voor Browse...
-- 
+- Dubbelklik op het bestand Script.ps1
+- Klik op OK
+- Klik nu op Apply en daarna op OK
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -305,8 +307,8 @@ get-date >> C:\Users\$gebruiker\log.log
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUxNDk5MTgsNzI3MTE1NDc3LC0zNj
-U2MTI0MTgsLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1NDIyNjgw
-MTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4NjkwMDY1MC
-wtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbNTA3OTExOTg4LDcyNzExNTQ3NywtMzY1Nj
+EyNDE4LC00MTcyMTEyNCwtMTI2NTA0ODA1NCwxNTQyMjY4MDEz
+LC0xMTAyMDE0Mzg5LC0xNzIyOTM3NzcyLDE2ODY5MDA2NTAsLT
+E5NzY2MTIyNDYsOTIzMTkzNjM1XX0=
 -->
