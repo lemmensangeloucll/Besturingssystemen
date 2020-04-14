@@ -263,7 +263,13 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 - Klik op OK
 - Sluit het venster
 ### Script Logon name
->NIET KLAAR VOOR PUBLICATIE
+- Maak een bestand aan in `Documents`
+- Plak hier volgend script in
+```
+$gebruiker=$env:USERNAME
+whoami >> C:\Users\$gebruiker\log.log
+get-date >> C
+```
 ### Installeer van programma’s (op alle pc’s)
 >NIET KLAAR VOOR PUBLICATIE
 ### Delegatie
@@ -271,7 +277,8 @@ Nu moeten we ervoor zorgen dat de group `IT` wel aan `Control Panel` kan.
 ### Overname blokkeren of niet
 >NIET KLAAR VOOR PUBLICATIE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzIxMTI0LC0xMjY1MDQ4MDU0LDE1ND
-IyNjgwMTMsLTExMDIwMTQzODksLTE3MjI5Mzc3NzIsMTY4Njkw
-MDY1MCwtMTk3NjYxMjI0Niw5MjMxOTM2MzVdfQ==
+eyJoaXN0b3J5IjpbMTQyMDg4ODU2NiwtNDE3MjExMjQsLTEyNj
+UwNDgwNTQsMTU0MjI2ODAxMywtMTEwMjAxNDM4OSwtMTcyMjkz
+Nzc3MiwxNjg2OTAwNjUwLC0xOTc2NjEyMjQ2LDkyMzE5MzYzNV
+19
 -->
